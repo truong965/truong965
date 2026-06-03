@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mai+%C4%90%E1%BB%A9c+Tr%C6%B0%E1%BB%9Dng;Backend+Developer+%7C+Fresher;Building+Scalable+Distributed+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mai+%C4%90%E1%BB%A9c+Tr%C6%B0%E1%BB%9Dng;Backend+Developer+%7C+Fresher; Building+Scalable+Distributed+Systems" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -61,26 +61,6 @@ contact:    truongmaiduc18@gmail.com
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 💬 [Zalo Clone](https://github.com/truong965/zalo_clone)
-> Full-featured messaging platform for web & mobile
-
-- Real-time chat (1-on-1 & group), video call, AI assistant service, 2FA authentication
-- Cross-platform: **Web** + **Mobile app** (Expo)
-- `Socket.IO` · `WebRTC` · `AI Service` · `2FA` · `Expo`
-
----
-
-### 🛒 [Phone Store — Microservice Architecture](https://github.com/Truongxt/KienTrucPhanMem_Project)
-> E-commerce platform built with microservices
-
-- Distributed architecture: Product, Order, Cart, Payment, Inventory services
-- Event-driven with **Saga pattern** for distributed transactions
-- `Spring Boot` · `RabbitMQ` · `Saga Orchestration` · `Docker`
 
 <p align="left">
   <a href="mailto:truongmaiduc18@gmail.com">
