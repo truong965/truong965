@@ -15,7 +15,7 @@
 name:       Mai Đức Trường
 location:   Ho Chi Minh City, Vietnam
 education:  Final-year Software Engineering Student
-focus:      Backend Development · Distributed Systems
+focus:      Backend Development 
 contact:    truongmaiduc18@gmail.com
 ```
 
@@ -81,23 +81,6 @@ contact:    truongmaiduc18@gmail.com
 - Distributed architecture: Product, Order, Cart, Payment, Inventory services
 - Event-driven with **Saga pattern** for distributed transactions
 - `Spring Boot` · `RabbitMQ` · `Saga Orchestration` · `Docker`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=truong965&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truong965&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=truong965&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📫 Contact
 
 <p align="left">
   <a href="mailto:truongmaiduc18@gmail.com">
